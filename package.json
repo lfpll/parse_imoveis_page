@@ -1,0 +1,22 @@
+{
+  "name": "parse_imoveis_page",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lfpll/parse_imoveis_page.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lfpll/parse_imoveis_page/issues"
+  },
+  "homepage": "https://github.com/lfpll/parse_imoveis_page#readme",
+  "dependencies": {
+    "vue-material": "^1.0.0-beta-11"
+  }
+}
